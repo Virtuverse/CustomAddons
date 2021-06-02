@@ -1,0 +1,10 @@
+{
+    "name": "Clock",
+    "version": "0.0.1",
+    "config": {
+        "enabled": "bool::true",
+        "font_size": "int::16",
+        "time_format": "string::%H:%M:%S",
+        "include_ms": "bool::true"
+    }
+}
